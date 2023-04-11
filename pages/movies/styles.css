@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: rgba(18, 58, 119, 0.459);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+p {
+    color: beige;
+    font-size: 2rem;
+    text-shadow: rgb(14, 13, 13) 5px 0 7px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+    font-size: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.movie {
+    margin: 10px;
+    text-align: center;
+}
+
+img {
+    height: 350px;
+    width: 250px;
+}
